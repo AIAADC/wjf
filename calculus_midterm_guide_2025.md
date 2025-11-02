@@ -1,11 +1,11 @@
 # 微积分期中考试经验分享贴
 
-title: 微积分期中考试经验分享贴 
-author: AIA 学业发展与支持中心 
-editor: 李明皓 (2654330367@qq.com) 
-last_updated: 2025-11-02 
-version: 1.0 
-source：https://github.com/AIAADC/wjf.git 
+title: 微积分期中考试经验分享贴  
+author: AIA 学业发展与支持中心  
+editor: 李明皓 (2654330367@qq.com)  
+last_updated: 2025-11-02  
+version: 1.0  
+source：https://github.com/AIAADC/wjf.git  
 
 ---
 
@@ -35,7 +35,7 @@ source：https://github.com/AIAADC/wjf.git
 
 - 第四章 微分中值定理
 
-	**例4-5至9， 例4-11， 例4-13至16，例4-22，例4-23，例4-30，例4-33，例4-34，例4-39，例4-43，例4-57，例4-58 **
+	**例4-5至9， 例4-11， 例4-13至16，例4-22，例4-23，例4-30，例4-33，例4-34，例4-39，例4-43，例4-57，例4-58**
 
 说明：
 
@@ -49,4 +49,5 @@ source：https://github.com/AIAADC/wjf.git
 
 
 完结，撒花！！！
+
 
