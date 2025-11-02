@@ -1,11 +1,11 @@
 # 微积分期中考试经验分享贴
 
-title: 微积分期中考试经验分享贴
-author: AIA 学业发展与支持中心
-editor: 李明皓 (2654330367@qq.com)
-last_updated: 2025-11-02
-version: 1.0
-source：https://github.com/AIAADC/wjf.git
+title: 微积分期中考试经验分享贴\\
+author: AIA 学业发展与支持中心\\
+editor: 李明皓 (2654330367@qq.com)\\
+last_updated: 2025-11-02\\
+version: 1.0\\
+source：https://github.com/AIAADC/wjf.git\\
 
 ---
 
@@ -46,5 +46,6 @@ source：https://github.com/AIAADC/wjf.git
 （3）备考期中考试，**不可忽视往届真题的重要性**。若时间实在紧张，也请保证至少刷过往年真题卷（建议2-3套），再针对辅导具体题型进行查漏补缺。
 
 最后，祝大家都能在进入大学校园的第一场考试取得满意的成绩！
+
 
 完结，撒花！！！
